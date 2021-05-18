@@ -61,3 +61,14 @@ input[type=submit]{
     background: rgb(87,185,157);
     color: white;
 }
+
+/* footer */
+.footer-top{
+    background: rgb(63,84,107);
+}
+
+
+
+.footer-bottom{
+    background: rgb(47,62,78);
+}
