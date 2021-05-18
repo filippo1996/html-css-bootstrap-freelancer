@@ -8,6 +8,18 @@
     background: rgb(87,185,157);
 }
 
+.img-jumbo{
+    width: 40%;
+}
+
+.sub-title{
+    margin-bottom: 1.2rem;
+}
+
+.sub-title h2{
+    text-transform: uppercase;
+}
+
 /* portfolio */
 .line-star{
     display: flex;
@@ -66,7 +78,6 @@ input[type=submit]{
 .footer-top{
     background: rgb(63,84,107);
 }
-
 
 
 .footer-bottom{
