@@ -2,3 +2,8 @@
 .bg_blue{
     background: rgb(47,62,78); 
 }
+
+/* jumbotron */
+.jumbotron{
+    background: rgb(87,185,157);
+}
