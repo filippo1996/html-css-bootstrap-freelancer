@@ -35,3 +35,12 @@
 .about{
     background: rgb(87,185,157);
 }
+
+.btn-outline-white{
+    border: 1px solid white;
+    color: white;
+}
+
+.call-to-action{
+    text-align: center;
+}
