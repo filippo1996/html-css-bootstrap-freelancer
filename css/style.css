@@ -44,3 +44,20 @@
 .call-to-action{
     text-align: center;
 }
+
+/* contact */
+input,
+textarea{
+    border: 0;
+    border-bottom: 1px solid gray;
+    width: 100%;
+}
+
+input[type=submit]{
+    width: auto;
+}
+
+.btn_green{
+    background: rgb(87,185,157);
+    color: white;
+}
